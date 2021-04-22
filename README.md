@@ -16,7 +16,7 @@
 2. `description` - Description of that topics - [3D modeling uses specialized software to create a digital model of a physical object. It is an aspect of 3D computer graphics, used for video games, 3D printing, and VR, among other applications.]
 3. `url` - URL of that topic - [https://github.com/topics/3d]
 ---
-## Scraping Top 25 Repositories Under Each Topic
+## Scraping Top 30 Repositories Under Each Topic
 ### Repo Dataframe Attributes:
 1. `repo_name` - Name of the repository
 2. `username` - Owner of that repository
